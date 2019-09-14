@@ -2,5 +2,5 @@
 A PCB for Timer based Industrial Equipment Control.
 Used an AVR(ATmega8a) based MCU for driving of 3 LED SSD displays and operates a relay during it's opertion.
 
-![Screenshot](1.png)
-![Screenshot](2.png)
+![Screenshot](1.PNG)
+![Screenshot](2.PNG)
